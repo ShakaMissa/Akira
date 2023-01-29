@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url("../img/makima.jpg");
+    background-image: url("../img/makima.jpg"); /*test*/
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #cccccc;
