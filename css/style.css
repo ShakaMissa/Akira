@@ -35,7 +35,7 @@ body{
 
 .wrapper .sidebar ul li{
     padding: 20px 15px;
-    transition: all 1.2s ease;
+    transition: all 0.5s ease;
 
 }
 
@@ -55,7 +55,8 @@ li img{
 
 .wrapper .sidebar ul li:hover{
     background: #fa2d2d;
-    transition: all 0.2s ease;
+    transition: all 0.5s ease;
+
 }
 
 .wrapper .sidebar ul li:hover a{
